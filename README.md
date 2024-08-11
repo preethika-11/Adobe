@@ -9,10 +9,6 @@ Curvetopia is a solution to the Adobe GenSolve hackathon  of round 2 developed b
 3. **Drag and Drop:** Easily upload CSV files for processing using drag-and-drop functionality.
 4. **Download Options:** Download the regularized images in both PNG and SVG formats.
 
-Here's a tech stack description for your project:
-
----
-
 ## Tech Stack
 
 1. **NumPy:** Essential for performing numerical operations and handling arrays efficiently.
