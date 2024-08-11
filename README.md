@@ -2,7 +2,7 @@
 
 Curvetopia is a solution to the Adobe GenSolve hackathon  of round 2 developed by our team to perform image regularization based on coordinate data from CSV files. The project focuses on smoothing and standardizing hand-drawn shapes, making them more uniform and consistent.
 
-# Features
+## Features
 
 1. **Image Regularization:** Process and regularize hand-drawn shapes using coordinates provided in CSV files.
 2. **Dataset Management:** Efficiently manage and organize coordinate data using the datasets folder.
